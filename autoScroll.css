@@ -1,0 +1,7 @@
+div.contentbox {
+	background: #FFF;
+	height: 500px;
+	margin: 20px;
+	font-size: 28px;
+	border: #CCC 1px dashed;
+}
